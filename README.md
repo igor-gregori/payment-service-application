@@ -1,20 +1,19 @@
-# Gateway de pagamento
-Esse projeto foi desenvolvido durante uma imersão realizada pela Fullcycle
+# Payment gateway
 
-## 📄 Sobre o projeto
-Esse projeto traz um pouco das tecnologias dos aplicativos atuais, visando construir uma solução para um gateway de pagamentos foram utilizadas tecnologias como **NestJs**, **NextJs**, **Golang**, **Kafka**, **MySql** e também um pouco de **Kubernetes**
+## 📄 About
+This project incorporates some of the technologies used in current applications, aiming to build a payment gateway solution. Technologies such as NestJs, NextJs, Golang, Kafka, MySQL, and also some Kubernetes were utilized.
 
-## ✅ Ordem recomendada de execução
+## ✅ Recommended order of execution
 
 * Apache Kafka - Kafka
 * Golang - Processor
 * Back-end Nest.js - Payments
 * Front-end Next.js - Front
 
-## 📊 Diagrama C4 da solução
+## 📊 Diagram C4 of the solution
 ![Diagrama C4](.github/psa-c4.png)
 
-## 👽 Desenvolvedor
+## 👽 Developer
 
 <a href="https://github.com/Igor-Gregori">
  <img src="https://avatars.githubusercontent.com/u/60407257?v=4" width="80px;" alt="Igor Gregori" style="border-radius:50%"/>
@@ -22,8 +21,8 @@ Esse projeto traz um pouco das tecnologias dos aplicativos atuais, visando const
  <sub><b>Igor Gregori</b></sub>
 </a>
 
-Desenvolvido por <b>Igor Gregori</b></br>
-Entre em contato 💬
+Developed by <b>Igor Gregori</b></br>
+Contact me 💬
 <a href="https://mailto:igsilvacarlos@gmail.com">igsilvacarlos@gmail.com</a>
 
 <a href="https://www.linkedin.com/in/igor-gregori/">
